@@ -2,7 +2,7 @@
 Reverses the words of a sentence
 ## Install
 ```sh
-npm install @npmusername/reverse-sentence
+npm install @nishiajmera/reverse-sentence
 ```
 ## API
 ```js
